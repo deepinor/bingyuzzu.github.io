@@ -1,6 +1,6 @@
 ---
 layout: page
-titles: Dr. Yu
+titles: Publication
 ---
 
 # **Publications at ZZU**
@@ -16,7 +16,7 @@ titles: Dr. Yu
 
 DOI: 10.1021/acssuschemeng.0c02289
 
-42.  Xiao-Yun Li#, Yan Liu#, Xiao-Lan Chen,\* Xin-Yuan Lu, Xing-Xing Liang, Shan-Shan Zhu, Chuan-Wan Wei, Ling-Bo Qu, and Bing Yu\*, 6��-Electrocyclization in Water: Microwave-Assisted Synthesis of Polyheterocyclic-Fused Quinoline-2-Thiones. Green Chem., 2020, DOI: 10.1039/C9GC04445K. [[link](https://doi.org/10.1039/C9GC04445K)]
+42.  Xiao-Yun Li#, Yan Liu#, Xiao-Lan Chen,\* Xin-Yuan Lu, Xing-Xing Liang, Shan-Shan Zhu, Chuan-Wan Wei, Ling-Bo Qu, and Bing Yu\*, 6¦Ð-Electrocyclization in Water: Microwave-Assisted Synthesis of Polyheterocyclic-Fused Quinoline-2-Thiones. Green Chem., 2020, DOI: 10.1039/C9GC04445K. [[link](https://doi.org/10.1039/C9GC04445K)]
 
 DOI: 10.1039/C9GC04445K
 
@@ -65,7 +65,7 @@ DOI: 10.1021/acsabm.9b00946
 DOI: 10.1002/ejoc.201901581
 
 
-32.  Xiao-Ceng Liu, Xiao-Lan Chen,\* Yan Liu, Kai Sun,\* Yu-Yu Peng, Ling-Bo Qu, and Bing Yu\*, Visible-Light-Induced Metal-Free Synthesis of 2‑Phosphorylated Thioflavones in Water. ChemSusChem, 2020, 13(2), 298-303. [[link](https://doi.org/10.1002/cssc.201902817)] 
+32.  Xiao-Ceng Liu, Xiao-Lan Chen,\* Yan Liu, Kai Sun,\* Yu-Yu Peng, Ling-Bo Qu, and Bing Yu\*, Visible-Light-Induced Metal-Free Synthesis of 2â€‘Phosphorylated Thioflavones in Water. ChemSusChem, 2020, 13(2), 298-303. [[link](https://doi.org/10.1002/cssc.201902817)] 
 
 DOI: 10.1002/cssc.201902817
 
@@ -170,5 +170,5 @@ DOI: 10.1016/j.jcou.2018.05.021
 02.  Guo-Ping Yang, Dilireba Dilixiati, Tao Yang, Dong Liu, Bing Yu\*, and Chang-Wen Hu\*, Phosphomolybdic acid as a bifunctional catalyst for the Friedel-Crafts type dehydrative coupling reaction, Appl. Organomet. Chem., 2018, 32, e4450. [[link](http://dx.doi.org/10.1002/aoc.4450)] 
 DOI: 10.1002/aoc.4450
 
-01.  Xue Feng, Tao Yang, Xing He, Bing Yu\*, and Chang-Wen Hu\*, One-Pot Synthesis of Trifluoromethylated Benzimidazolines Catalyzed by Phosphotungstic Acid with A Low Catalyst Loading, Appl. Organomet. Chem., 2018, 32, e4314. [[link](http://dx.doi.org/10.1002/aoc.4314)] 
+\0\1.  Xue Feng, Tao Yang, Xing He, Bing Yu\*, and Chang-Wen Hu\*, One-Pot Synthesis of Trifluoromethylated Benzimidazolines Catalyzed by Phosphotungstic Acid with A Low Catalyst Loading, Appl. Organomet. Chem., 2018, 32, e4314. [[link](http://dx.doi.org/10.1002/aoc.4314)] 
 DOI: 10.1002/aoc.4314
